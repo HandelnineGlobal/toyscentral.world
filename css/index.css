@@ -1,0 +1,2308 @@
+/* screen - index */
+
+.index {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  min-width: 1226px;
+  position: relative;
+}
+
+.index .header {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  height: 124px;
+  justify-content: space-around;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-26 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+  margin-bottom: -1.50px;
+  margin-top: -1.50px;
+  padding: 32px 82px;
+  position: relative;
+}
+
+.index .frame-48 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100px;
+}
+
+.index .toyscentral-header-1 {
+  height: 63px;
+  margin-right: -13.88px;
+  object-fit: cover;
+  position: relative;
+  width: 113.88px;
+}
+
+.index .menu {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 29px;
+  position: relative;
+}
+
+.index .link {
+  color: var(--secondsry);
+  cursor: pointer;
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .banner-section {
+  align-items: flex-start;
+  align-self: stretch;
+  background-image: url(../img/banner-section-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 115px;
+  height: 648px;
+  padding: 179px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-25 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 34px;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index .endless-play-endless-learning {
+  align-self: stretch;
+  color: var(--primary);
+  font-weight: 700;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .happy-playtime-for-kids-of-all-ages {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 36px;
+  position: relative;
+}
+
+.index .about {
+  background-color: var(--white);
+  gap: 48px;
+}
+
+.index .frame-45 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 67px;
+  padding: 100px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index .about-us {
+  gap: 53px;
+}
+
+.index .about-toys-central {
+  align-self: stretch;
+  letter-spacing: 1.00px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .span0 {
+  letter-spacing: 0.50px;
+}
+
+.index .span1 {
+  color: var(--secondsry);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  letter-spacing: 0.50px;
+}
+
+.index .at-toys-central-we {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: justify;
+}
+
+.index .categories-of-product {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--bg-grey);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-47 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 81px;
+  padding: 100px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-28 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.index .playtime-that-sparks {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-weight: 600;
+  letter-spacing: 1.00px;
+  line-height: 68px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .discover-toys-and-games-for-kids {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 36px;
+  position: relative;
+  text-align: center;
+}
+
+.index .frame-4-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 59px 117px;
+  justify-content: center;
+  padding: 0px 80px;
+  width: 100%;
+}
+
+.index .food {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  justify-content: center;
+  position: relative;
+  width: 150px;
+}
+
+.index .frame-58 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 18px;
+  margin-left: -18.00px;
+  margin-right: -18.00px;
+  position: relative;
+}
+
+.index .toys-figures-dolls {
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 186px;
+}
+
+.index .matryoshka-doll {
+  background-color: var(--primary);
+  border-radius: 74.77px/75px;
+  height: 150px;
+  position: relative;
+  width: 149.53px;
+}
+
+.index .doll-1 {
+  height: 80px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 109px;
+  width: 80px;
+}
+
+.index .beverages {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  position: relative;
+  width: 150px;
+}
+
+.index .pretend-play {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .ellipse-2 {
+  border-radius: 75px/74.65px;
+  height: 149.3px;
+  width: 150px;
+}
+
+.index .frame-60 {
+  height: 71px;
+  left: 46px;
+  position: absolute;
+  top: 113px;
+  width: 64px;
+}
+
+.index .self-deception-1 {
+  height: 74px;
+  left: -5px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 74px;
+}
+
+.index .homecare {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  position: relative;
+  width: 150px;
+}
+
+.index .baby-toddler {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .mask-group {
+  height: 79px;
+  left: 36px;
+  position: absolute;
+  top: 111px;
+  width: 79px;
+}
+
+.index .gifting {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  justify-content: center;
+  position: relative;
+  width: 150px;
+}
+
+.index .vehicles {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .car-toy-1-1 {
+  height: 78px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 85px;
+  width: 78px;
+}
+
+.index .frame-4-item {
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  width: 150px;
+}
+
+.index .games {
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .ellipse-27 {
+  border-radius: 75px/75.23px;
+  height: 150.47px;
+  width: 150px;
+}
+
+.index .board-game-1 {
+  height: 64px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 92px;
+  width: 64px;
+}
+
+.index .hobbies {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .ellipse-28 {
+  align-self: stretch;
+  border-radius: 75px/75.23px;
+  height: 150.47px;
+  width: 100%;
+}
+
+.index .paper-crafts-1-1 {
+  height: 68px;
+  left: 41px;
+  object-fit: cover;
+  position: absolute;
+  top: 90px;
+  width: 68px;
+}
+
+.index .place {
+  color: var(--secondsry);
+  line-height: 28px;
+  text-align: center;
+}
+
+.index .novelty-1 {
+  height: 84px;
+  left: 33px;
+  object-fit: cover;
+  position: absolute;
+  top: 81px;
+  width: 84px;
+}
+
+.index .outdoor {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .cricket-ball-1 {
+  height: 64px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 87px;
+  width: 64px;
+}
+
+.index .learning {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .abacus-toy-1-1 {
+  height: 64px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 91px;
+  width: 64px;
+}
+
+.index .green-band {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--secondsry);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 51px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-46 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index .discover-endless-fun {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .contact-us {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.index .email-section {
+  align-self: stretch;
+  background-color: var(--white);
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 29px 29px;
+  justify-content: center;
+  padding: 57px 0px;
+  width: 100%;
+}
+
+.index .frame-50 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 336px;
+}
+
+.index .contact-us-get-in-touch {
+  flex: 1;
+  letter-spacing: 0.96px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .span {
+  letter-spacing: 0.46px;
+}
+
+.index .email-button {
+  border: 1px solid;
+  border-color: var(--primary);
+  border-radius: 34px;
+  gap: 12px;
+  padding: 15px 33px;
+  width: 308px;
+}
+
+.index .frame-57 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.index .combined-shape {
+  height: 16.52px;
+  margin-left: -4.50px;
+  position: relative;
+  width: 18px;
+}
+
+.index .infotoyscentralcom {
+  color: var(--secondsry);
+  font-weight: 500;
+  line-height: normal;
+  margin-right: -4.50px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.index .addresses {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-29 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 32px 27px;
+  justify-content: center;
+  padding: 53px 80px 100px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 241px;
+}
+
+.index .place-1 {
+  color: var(--pressed);
+  line-height: 36px;
+}
+
+.index .address {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.index .place-2 {
+  color: var(--pressed);
+  line-height: 36px;
+}
+
+.index .hygeia-building-rea {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.index .name {
+  align-self: stretch;
+  color: var(--pressed);
+  font-weight: 600;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .f-135136-kailas-va {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.index .place-3 {
+  color: var(--pressed);
+  line-height: 36px;
+}
+
+.index .x2301-bayfield-build {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.index .footer {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--bg-grey);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 319px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-32 {
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.index .toyscentral-header-1-1 {
+  height: 63px;
+  object-fit: cover;
+  position: relative;
+  width: 113.88px;
+}
+
+.index .x2024-toys-central {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.index .about-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.index .ellipse {
+  background-color: var(--primary);
+  position: relative;
+}
+
+.index .email {
+  align-items: center;
+  display: flex;
+  position: relative;
+}
+
+.index .frame-4-2 {
+  display: flex;
+  position: relative;
+}
+
+.index .place-4 {
+  align-self: stretch;
+  font-weight: 600;
+  margin-top: -1.00px;
+  position: relative;
+}
+/* screen - toyscentralu95mobile-responsive */
+
+.toyscentralu95mobile-responsive {
+  align-items: flex-start;
+  flex-direction: column;
+  min-width: 375px;
+}
+
+.toyscentralu95mobile-responsive .header1 {
+  align-items: center;
+  align-self: stretch;
+  height: 100px;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.toyscentralu95mobile-responsive .frame-26-1 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+  margin-bottom: -13.50px;
+  margin-top: -13.50px;
+  padding: 32px 82px;
+  position: relative;
+}
+
+.toyscentralu95mobile-responsive .frame-48-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100px;
+}
+
+.toyscentralu95mobile-responsive .toyscentral-header-1-2 {
+  margin-right: -13.88px;
+}
+
+.toyscentralu95mobile-responsive .menu-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--bg-grey);
+  display: flex;
+  gap: 20px;
+  height: 42px;
+  justify-content: center;
+  padding: 6px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95mobile-responsive .link-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.toyscentralu95mobile-responsive .banner-section-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-image: url(../img/banner-section-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 115px;
+  height: 736px;
+  padding: 117px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95mobile-responsive .frame-25-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 34px;
+  padding: 0px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95mobile-responsive .endless-play-endless-learning-1 {
+  align-self: stretch;
+  color: var(--primary);
+  font-weight: 700;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.toyscentralu95mobile-responsive .happy-playtime-for-kids-of-all-ages-1 {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 36px;
+  position: relative;
+}
+
+.toyscentralu95mobile-responsive .about1 {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 48px;
+  width: 100%;
+}
+
+.toyscentralu95mobile-responsive .frame-45-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 67px;
+  padding: 80px 30px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95mobile-responsive .about-us-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 53px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95mobile-responsive .about-toys-central-1 {
+  align-self: stretch;
+  letter-spacing: 0.96px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.toyscentralu95mobile-responsive .span-1 {
+  letter-spacing: 0.46px;
+}
+
+.toyscentralu95mobile-responsive .at-toys-central-we-1 {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.toyscentralu95mobile-responsive .categories-of-product1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--bg-grey);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95mobile-responsive .frame-47-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 81px;
+  padding: 100px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95mobile-responsive .frame-28-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95mobile-responsive .playtime-that-sparks-1 {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 600;
+  letter-spacing: 0.96px;
+  line-height: 68px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.toyscentralu95mobile-responsive .discover-toys-and-games-for-kids-1 {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 36px;
+  position: relative;
+  text-align: center;
+}
+
+.toyscentralu95mobile-responsive .frame-4-3 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 59px 117px;
+  justify-content: center;
+  padding: 0px 40px;
+  width: 100%;
+}
+
+.toyscentralu95mobile-responsive .food-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  justify-content: center;
+  position: relative;
+  width: 150px;
+}
+
+.toyscentralu95mobile-responsive .frame-58-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 18px;
+  margin-left: -18.00px;
+  margin-right: -18.00px;
+  position: relative;
+}
+
+.toyscentralu95mobile-responsive .toys-figures-dolls-1 {
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 186px;
+}
+
+.toyscentralu95mobile-responsive .matryoshka-doll-1 {
+  background-color: var(--primary);
+  border-radius: 74.77px/75px;
+  height: 150px;
+  position: relative;
+  width: 149.53px;
+}
+
+.toyscentralu95mobile-responsive .doll-1-1 {
+  height: 80px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 109px;
+  width: 80px;
+}
+
+.toyscentralu95mobile-responsive .beverages-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  position: relative;
+  width: 150px;
+}
+
+.toyscentralu95mobile-responsive .pretend-play-1 {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.toyscentralu95mobile-responsive .ellipse-2-1 {
+  background-color: var(--primary);
+  border-radius: 75px/74.65px;
+  height: 149.3px;
+  position: relative;
+  width: 150px;
+}
+
+.toyscentralu95mobile-responsive .frame-60-1 {
+  height: 71px;
+  left: 46px;
+  position: absolute;
+  top: 113px;
+  width: 64px;
+}
+
+.toyscentralu95mobile-responsive .self-deception-1-1 {
+  height: 74px;
+  left: -5px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 74px;
+}
+
+.toyscentralu95mobile-responsive .homecare-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  position: relative;
+  width: 150px;
+}
+
+.toyscentralu95mobile-responsive .baby-toddler-1 {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.toyscentralu95mobile-responsive .mask-group-1 {
+  height: 79px;
+  left: 36px;
+  position: absolute;
+  top: 111px;
+  width: 79px;
+}
+
+.toyscentralu95mobile-responsive .gifting-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  justify-content: center;
+  position: relative;
+  width: 150px;
+}
+
+.toyscentralu95mobile-responsive .vehicles-1 {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.toyscentralu95mobile-responsive .car-toy-1-1-1 {
+  height: 78px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 85px;
+  width: 78px;
+}
+
+.toyscentralu95mobile-responsive .frame-4-item-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 150px;
+}
+
+.toyscentralu95mobile-responsive .games-1 {
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.toyscentralu95mobile-responsive .ellipse-27-1 {
+  background-color: var(--primary);
+  border-radius: 75px/75.23px;
+  height: 150.47px;
+  position: relative;
+  width: 150px;
+}
+
+.toyscentralu95mobile-responsive .board-game-1-1 {
+  height: 64px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 92px;
+  width: 64px;
+}
+
+.toyscentralu95mobile-responsive .hobbies-1 {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.toyscentralu95mobile-responsive .ellipse-28-1 {
+  align-self: stretch;
+  background-color: var(--primary);
+  border-radius: 75px/75.23px;
+  height: 150.47px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95mobile-responsive .paper-crafts-1-1-1 {
+  height: 68px;
+  left: 41px;
+  object-fit: cover;
+  position: absolute;
+  top: 90px;
+  width: 68px;
+}
+
+.toyscentralu95mobile-responsive .place-4 {
+  color: var(--secondsry);
+  line-height: 28px;
+  text-align: center;
+}
+
+.toyscentralu95mobile-responsive .novelty-1-1 {
+  height: 84px;
+  left: 33px;
+  object-fit: cover;
+  position: absolute;
+  top: 81px;
+  width: 84px;
+}
+
+.toyscentralu95mobile-responsive .outdoor-1 {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.toyscentralu95mobile-responsive .cricket-ball-1-1 {
+  height: 64px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 87px;
+  width: 64px;
+}
+
+.toyscentralu95mobile-responsive .learning-1 {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.toyscentralu95mobile-responsive .abacus-toy-1-1-1 {
+  height: 64px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 91px;
+  width: 64px;
+}
+
+.toyscentralu95mobile-responsive .green-band-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--secondsry);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 51px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95mobile-responsive .frame-46-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95mobile-responsive .discover-endless-fun-1 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.toyscentralu95mobile-responsive .contact-us1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95mobile-responsive .email-section-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 29px 29px;
+  justify-content: center;
+  padding: 57px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95mobile-responsive .frame-50-1 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 336px;
+}
+
+.toyscentralu95mobile-responsive .contact-us-get-in-touch-1 {
+  flex: 1;
+  letter-spacing: 0.96px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.toyscentralu95mobile-responsive .email-button-1 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--primary);
+  border-radius: 34px;
+  display: flex;
+  gap: 12px;
+  padding: 15px 33px;
+  position: relative;
+  width: 308px;
+}
+
+.toyscentralu95mobile-responsive .frame-57-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.toyscentralu95mobile-responsive .combined-shape-1 {
+  height: 16.52px;
+  margin-left: -4.50px;
+  position: relative;
+  width: 18px;
+}
+
+.toyscentralu95mobile-responsive .infotoyscentralcom-1 {
+  color: var(--secondsry);
+  font-weight: 500;
+  line-height: normal;
+  margin-right: -4.50px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.toyscentralu95mobile-responsive .addresses-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95mobile-responsive .frame-29-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 32px 27px;
+  justify-content: center;
+  padding: 53px 80px 100px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95mobile-responsive .frame-4-2 {
+  flex-direction: column;
+  gap: 4px;
+  margin-left: -13.00px;
+  margin-right: -13.00px;
+  width: 241px;
+}
+
+.toyscentralu95mobile-responsive .place-5 {
+  color: var(--pressed);
+  line-height: 36px;
+}
+
+.toyscentralu95mobile-responsive .address-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.toyscentralu95mobile-responsive .place-6 {
+  color: var(--pressed);
+  line-height: 36px;
+}
+
+.toyscentralu95mobile-responsive .hygeia-building-rea-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.toyscentralu95mobile-responsive .name-1 {
+  align-self: stretch;
+  color: var(--pressed);
+  font-weight: 600;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.toyscentralu95mobile-responsive .f-135136-kailas-va-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.toyscentralu95mobile-responsive .place-7 {
+  color: var(--pressed);
+  line-height: 36px;
+}
+
+.toyscentralu95mobile-responsive .x2301-bayfield-build-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.toyscentralu95mobile-responsive .footer-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--bg-grey);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 319px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95mobile-responsive .frame-32-1 {
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.toyscentralu95mobile-responsive .x2024-toys-central-1 {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.toyscentralu95mobile {
+  background-color: var(--white);
+  display: flex;
+  position: relative;
+}
+
+.toyscentralu95mobile-responsive .frame-4 {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}
+
+.toyscentralu95mobile-responsive .place {
+  align-self: stretch;
+  font-weight: 600;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.toyscentralu95mobile-responsive .toyscentral-header-1 {
+  height: 63px;
+  object-fit: cover;
+  position: relative;
+  width: 113.88px;
+}
+/* screen - toyscentralu95tablet-responsive */
+
+.toyscentralu95tablet-responsive {
+  align-items: flex-start;
+  flex-direction: column;
+  min-width: 938px;
+}
+
+.toyscentralu95tablet-responsive .header2 {
+  align-items: center;
+  align-self: stretch;
+  height: 124px;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.toyscentralu95tablet-responsive .frame-26-2 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+  margin-bottom: -1.50px;
+  margin-top: -1.50px;
+  padding: 32px 82px;
+  position: relative;
+}
+
+.toyscentralu95tablet-responsive .frame-48-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100px;
+}
+
+.toyscentralu95tablet-responsive .toyscentral-header-1-4 {
+  margin-right: -13.88px;
+}
+
+.toyscentralu95tablet-responsive .menu-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 29px;
+  position: relative;
+}
+
+.toyscentralu95tablet-responsive .link-2 {
+  color: var(--secondsry);
+  cursor: pointer;
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.toyscentralu95tablet-responsive .banner-section-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-image: url(../img/banner-section-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 115px;
+  height: 736px;
+  padding: 201px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95tablet-responsive .frame-25-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 34px;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95tablet-responsive .endless-play-endless-learning-2 {
+  align-self: stretch;
+  color: var(--primary);
+  font-weight: 700;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.toyscentralu95tablet-responsive .happy-playtime-for-kids-of-all-ages-2 {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 36px;
+  position: relative;
+}
+
+.toyscentralu95tablet-responsive .about2 {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 48px;
+  width: 100%;
+}
+
+.toyscentralu95tablet-responsive .frame-45-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 67px;
+  padding: 100px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95tablet-responsive .about-us-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 53px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95tablet-responsive .about-toys-central-2 {
+  align-self: stretch;
+  letter-spacing: 1.00px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.toyscentralu95tablet-responsive .span0-3 {
+  letter-spacing: 0.50px;
+}
+
+.toyscentralu95tablet-responsive .span1-1 {
+  color: var(--secondsry);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  letter-spacing: 0.50px;
+}
+
+.toyscentralu95tablet-responsive .at-toys-central-we-2 {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: justify;
+}
+
+.toyscentralu95tablet-responsive .categories-of-product2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--bg-grey);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95tablet-responsive .frame-47-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 81px;
+  padding: 100px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95tablet-responsive .frame-28-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95tablet-responsive .playtime-that-sparks-2 {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-weight: 600;
+  letter-spacing: 1.00px;
+  line-height: 68px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.toyscentralu95tablet-responsive .discover-toys-and-games-for-kids-2 {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 36px;
+  position: relative;
+  text-align: center;
+}
+
+.toyscentralu95tablet-responsive .frame-4-5 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 59px 117px;
+  justify-content: center;
+  padding: 0px 80px;
+  width: 100%;
+}
+
+.toyscentralu95tablet-responsive .food-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  justify-content: center;
+  position: relative;
+  width: 150px;
+}
+
+.toyscentralu95tablet-responsive .frame-58-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 18px;
+  margin-left: -18.00px;
+  margin-right: -18.00px;
+  position: relative;
+}
+
+.toyscentralu95tablet-responsive .toys-figures-dolls-2 {
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 186px;
+}
+
+.toyscentralu95tablet-responsive .matryoshka-doll-2 {
+  background-color: var(--primary);
+  border-radius: 74.77px/75px;
+  height: 150px;
+  position: relative;
+  width: 149.53px;
+}
+
+.toyscentralu95tablet-responsive .doll-1-2 {
+  height: 80px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 109px;
+  width: 80px;
+}
+
+.toyscentralu95tablet-responsive .beverages-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  position: relative;
+  width: 150px;
+}
+
+.toyscentralu95tablet-responsive .pretend-play-2 {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.toyscentralu95tablet-responsive .ellipse-2-2 {
+  background-color: var(--primary);
+  border-radius: 75px/74.65px;
+  height: 149.3px;
+  position: relative;
+  width: 150px;
+}
+
+.toyscentralu95tablet-responsive .frame-60-2 {
+  height: 71px;
+  left: 46px;
+  position: absolute;
+  top: 113px;
+  width: 64px;
+}
+
+.toyscentralu95tablet-responsive .self-deception-1-2 {
+  height: 74px;
+  left: -5px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 74px;
+}
+
+.toyscentralu95tablet-responsive .homecare-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  position: relative;
+  width: 150px;
+}
+
+.toyscentralu95tablet-responsive .baby-toddler-2 {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.toyscentralu95tablet-responsive .mask-group-2 {
+  height: 79px;
+  left: 36px;
+  position: absolute;
+  top: 111px;
+  width: 79px;
+}
+
+.toyscentralu95tablet-responsive .gifting-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  justify-content: center;
+  position: relative;
+  width: 150px;
+}
+
+.toyscentralu95tablet-responsive .vehicles-2 {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.toyscentralu95tablet-responsive .car-toy-1-1-2 {
+  height: 78px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 85px;
+  width: 78px;
+}
+
+.toyscentralu95tablet-responsive .frame-4-item-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 150px;
+}
+
+.toyscentralu95tablet-responsive .games-2 {
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.toyscentralu95tablet-responsive .ellipse-27-2 {
+  background-color: var(--primary);
+  border-radius: 75px/75.23px;
+  height: 150.47px;
+  position: relative;
+  width: 150px;
+}
+
+.toyscentralu95tablet-responsive .board-game-1-2 {
+  height: 64px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 92px;
+  width: 64px;
+}
+
+.toyscentralu95tablet-responsive .hobbies-2 {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.toyscentralu95tablet-responsive .ellipse-28-2 {
+  align-self: stretch;
+  background-color: var(--primary);
+  border-radius: 75px/75.23px;
+  height: 150.47px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95tablet-responsive .paper-crafts-1-1-2 {
+  height: 68px;
+  left: 41px;
+  object-fit: cover;
+  position: absolute;
+  top: 90px;
+  width: 68px;
+}
+
+.toyscentralu95tablet-responsive .place-8 {
+  color: var(--secondsry);
+  line-height: 28px;
+  text-align: center;
+}
+
+.toyscentralu95tablet-responsive .novelty-1-2 {
+  height: 84px;
+  left: 33px;
+  object-fit: cover;
+  position: absolute;
+  top: 81px;
+  width: 84px;
+}
+
+.toyscentralu95tablet-responsive .outdoor-2 {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.toyscentralu95tablet-responsive .cricket-ball-1-2 {
+  height: 64px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 87px;
+  width: 64px;
+}
+
+.toyscentralu95tablet-responsive .learning-2 {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.toyscentralu95tablet-responsive .abacus-toy-1-1-2 {
+  height: 64px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 91px;
+  width: 64px;
+}
+
+.toyscentralu95tablet-responsive .green-band-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--secondsry);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 51px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95tablet-responsive .frame-46-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95tablet-responsive .discover-endless-fun-2 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.toyscentralu95tablet-responsive .contact-us2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95tablet-responsive .email-section-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 29px 29px;
+  justify-content: center;
+  padding: 57px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95tablet-responsive .frame-50-2 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 336px;
+}
+
+.toyscentralu95tablet-responsive .contact-us-get-in-touch-2 {
+  flex: 1;
+  letter-spacing: 0.96px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.toyscentralu95tablet-responsive .span-2 {
+  letter-spacing: 0.46px;
+}
+
+.toyscentralu95tablet-responsive .email-button-2 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--primary);
+  border-radius: 34px;
+  display: flex;
+  gap: 12px;
+  padding: 15px 33px;
+  position: relative;
+  width: 308px;
+}
+
+.toyscentralu95tablet-responsive .frame-57-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.toyscentralu95tablet-responsive .combined-shape-2 {
+  height: 16.52px;
+  margin-left: -4.50px;
+  position: relative;
+  width: 18px;
+}
+
+.toyscentralu95tablet-responsive .infotoyscentralcom-2 {
+  color: var(--secondsry);
+  font-weight: 500;
+  line-height: normal;
+  margin-right: -4.50px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.toyscentralu95tablet-responsive .addresses-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95tablet-responsive .frame-29-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 32px 27px;
+  justify-content: center;
+  padding: 53px 80px 100px;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95tablet-responsive .frame-4-4 {
+  flex-direction: column;
+  gap: 4px;
+  width: 241px;
+}
+
+.toyscentralu95tablet-responsive .place-9 {
+  color: var(--pressed);
+  line-height: 36px;
+}
+
+.toyscentralu95tablet-responsive .address-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.toyscentralu95tablet-responsive .place-10 {
+  color: var(--pressed);
+  line-height: 36px;
+}
+
+.toyscentralu95tablet-responsive .hygeia-building-rea-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.toyscentralu95tablet-responsive .name-2 {
+  align-self: stretch;
+  color: var(--pressed);
+  font-weight: 600;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.toyscentralu95tablet-responsive .f-135136-kailas-va-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.toyscentralu95tablet-responsive .place-11 {
+  color: var(--pressed);
+  line-height: 36px;
+}
+
+.toyscentralu95tablet-responsive .x2301-bayfield-build-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.toyscentralu95tablet-responsive .footer-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--bg-grey);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 319px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.toyscentralu95tablet-responsive .frame-32-2 {
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.toyscentralu95tablet-responsive .x2024-toys-central-2 {
+  align-self: stretch;
+  color: var(--secondsry);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.toyscentralu95tablet {
+  background-color: var(--white);
+  display: flex;
+  position: relative;
+}
+
+.toyscentralu95tablet-responsive .frame-4 {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}
+
+.toyscentralu95tablet-responsive .place {
+  align-self: stretch;
+  font-weight: 600;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.toyscentralu95tablet-responsive .toyscentral-header-1 {
+  height: 63px;
+  object-fit: cover;
+  position: relative;
+  width: 113.88px;
+}
+@media screen and (max-width: 937px) {
+  .screen.index { 
+    display: none;
+   }
+  .screen.toyscentralu95tablet-responsive { 
+    display: none;
+   }
+}
+@media screen and (min-width: 938px) and (max-width: 1225px) {
+  .screen.index { 
+    display: none;
+   }
+  .screen.toyscentralu95mobile-responsive { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1226px) {
+  .screen.toyscentralu95mobile-responsive { 
+    display: none;
+   }
+  .screen.toyscentralu95tablet-responsive { 
+    display: none;
+   }
+}
